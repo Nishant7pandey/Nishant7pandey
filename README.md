@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently frontend developer
+- 🌱 I’m currently mern stack developer
 
 - 📫 How to reach me *np4639783@gmail.com*
 
